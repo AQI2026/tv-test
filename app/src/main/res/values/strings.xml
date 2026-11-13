@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TV安装测试</string>
+    <string name="app_name">TV能力检测</string>
+    <string name="a11y_desc">用于检测电视是否允许无障碍服务（家长控制测试）</string>
 </resources>
